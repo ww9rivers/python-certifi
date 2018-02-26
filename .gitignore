@@ -1,2 +1,5 @@
+/build/
+/certifi.egg-info/
+/dist/
 *.pyc
 MANIFEST
